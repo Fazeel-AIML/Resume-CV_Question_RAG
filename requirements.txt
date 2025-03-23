@@ -6,3 +6,7 @@ chromadb
 langchain-chroma
 streamlit
 unstructured
+langchain_google_genai
+google
+dotenv
+PyPDF2
