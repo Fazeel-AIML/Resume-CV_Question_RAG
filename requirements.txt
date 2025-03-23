@@ -10,3 +10,4 @@ langchain_google_genai
 google
 dotenv
 PyPDF2
+faiss-cpu
