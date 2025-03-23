@@ -1,0 +1,8 @@
+langchain
+langchain-community
+transformers
+langchain-transformers
+chromadb
+langchain-chroma
+streamlit
+unstructured
